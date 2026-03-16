@@ -164,7 +164,7 @@ Despite training on a relatively small corpus, the model captures
 meaningful semantic clusters.
 
 Note that `vii` appear due to frequent co-occurrence with
-  royal names (Henry VIII, Louis VII) in Wikipedia text — a direct
+  royal names (Henry VIII, Louis VII) in Wikipedia text, a direct
   consequence of distributional semantics rather than explicit encoding.
 
 ### 2. Analogy Accuracy
