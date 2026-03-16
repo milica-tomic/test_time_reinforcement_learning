@@ -24,11 +24,6 @@ First, if you don't have some of the libraries mentioned in the [Requirements](#
 ```
 pip install numpy
 ```
-After you check that all libraries are installed, run the script directly:
-
-```
-python word2vec.py
-```
 
 The [Text8](https://mattmahoney.net/dc/text8.zip) and [Google Analogy](https://github.com/tmikolov/word2vec) datasets will download automatically during execution. 
 
