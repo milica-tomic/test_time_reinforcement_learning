@@ -1,7 +1,5 @@
 # Test Time Reinforcement Learning
 
-# Learning to Reason with Small Models
-
 Implementation of the Word2Vec training loop from scratch using only NumPy with Adam optimizator. 
 
 ## Project Overview
